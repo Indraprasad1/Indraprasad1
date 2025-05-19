@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Indra Prasad Tharu</h1>
 <h3 align="center">A passionate computer science developer from Nepal</h3>
 
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&psig=AOvVaw2lTYel8cb4BVCrYRObf45-&ust=1721308599134000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNix3LKUrocDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" scr="https://d2ms8rpfqc4h24.cloudfront.net/Guide_to_Full_Stack_Development_000eb0b2d0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indraprasad1&label=Profile%20views&color=0e75b6&style=flat" alt="indraprasad1" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, C++ ..etc**
+- 🌱 I’m currently learning **Python, Django, C++, Bootstrap ..etc**
 
 - 📫 How to reach me **indarchaudhary0@gmail.com**
 
