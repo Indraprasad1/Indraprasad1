@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indra Prasad Tharu</h1>
 <h3 align="center">A passionate computer science developer from Nepal</h3>
 
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fradixweb.com%2Fblog%2Fguide-to-full-stack-development&psig=AOvVaw3iRGw3gxn9IDSQ5lKXAhzw&ust=1747728664151000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCJ2uqKr40DFQAAAAAdAAAAABAE">
+![Billing Software Screenshot](github.webp)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indraprasad1&label=Profile%20views&color=0e75b6&style=flat" alt="indraprasad1" /> </p>
 
