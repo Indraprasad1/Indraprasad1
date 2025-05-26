@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indra Prasad Tharu</h1>
 <h3 align="center">A passionate computer science developer from Nepal</h3>
 
-![Billing Software Screenshot](github.webp)
+![Loading Photo..](github.webp)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indraprasad1&label=Profile%20views&color=0e75b6&style=flat" alt="indraprasad1" /> </p>
 
